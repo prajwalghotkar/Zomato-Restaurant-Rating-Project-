@@ -66,49 +66,72 @@ python app.py
 
 ##### Demo:
 - If the PyCharm is already install open the file/Project directly as mentioned below 
+
 ![image](https://github.com/user-attachments/assets/88f5044e-daa1-4090-91e6-e400dd7e44c0)
-
+---
 - Set Up Python Interpreter
+
 ![image](https://github.com/user-attachments/assets/87bcd9e3-bec4-43cc-82b1-21fe7378fd3a)
+
 ![Screenshot 2025-02-04 161430](https://github.com/user-attachments/assets/e54fc0b2-949a-4aef-ac81-d97c71dad8cd)
-
+---
 - Once all the Packages are loaded
+
 - Right click Model.py the Run
+
 ![image](https://github.com/user-attachments/assets/22010d9e-8a27-4ec6-b97c-8e40148b97e5)
-
+---
 - This need to complete without any error
+
 ![Screenshot 2025-02-04 161619](https://github.com/user-attachments/assets/8883b5f2-ee54-4a5a-9149-5866b5eae2eb)
-
+---
 - Same way Right click and Run App.py
+
 ![Screenshot 2025-02-04 161659](https://github.com/user-attachments/assets/4b2b2d0a-0d46-4829-a056-70846add46d9)
-
+---
 - Enter the Values click the Button <<Predict>> for Prediction
+
 ![Screenshot 2025-02-04 162211](https://github.com/user-attachments/assets/fe9465e9-50a3-44ac-b2db-d5266a9ac9f1)
-
+---
 - The Rating will be displayed as mentioned below
+
 ![Screenshot 2025-02-04 161958](https://github.com/user-attachments/assets/82eba831-cfda-482b-8fdc-0e3eb7c9c98a)
+---
+##### future befinit of that project:
+- **Improved Decision Making:** Restaurant owners can make more informed business decisions—like adjusting menus, pricing, or service—based on predicted ratings and important influencing factors.
+- **Operational Efficiency:** Automated, data-driven rating predictions streamline feedback processes, reducing reliance on manual analysis or frequent customer surveys.
+- **Enhanced Customer Experience:** By proactively addressing the factors impacting ratings, restaurants can deliver better service and satisfaction to customers.
+- **Personalized Marketing:** With insights from feature importance, marketing and promotional campaigns can target the factors most likely to improve customer ratings and loyalty.
+- **Scalable to Larger Networks:** As the model evolves, it can be adapted and deployed across other cities or food service platforms beyond Zomato.
+- **Competitive Edge:** Early adoption of AI-driven analytics positions restaurants for greater competitiveness in the rapidly evolving food service industry.
+- **Continuous Improvement:** Regular updates and retraining with new data ensure the prediction engine becomes more accurate and valuable over time.
+---
+##### File you will need
+- Model.py file
+- .csv file
+- template
+  - .html
+  - Static
+  - .css file
+  - app.py file
 
-### File you will need
-##### * Model.py file
-##### * .csv file
-##### * template
-#####    * .html
-##### * Static
-#####   * .css file
-##### app.py file
+##### File Description
+###### Model.py:
+- The file contains the code for building our model that is used in predicting the restaurant ratings
 
-### File Description
+###### csv.file:
+- This contains our that we have already cleaned and saved.
 
-#### Model.py:
-##### The file contains the code for building our model that is used in predicting the restaurant ratings
+###### templete file:
+- The template file contains the html and css documents used in building our web app
 
-#### csv.file:
-##### This contains our that we have already cleaned and saved.
+###### App.py:
+- This contains the Flask API's that receives restaurant details via a GUI/API calls, then make the prediction of restaurant rating based on our model and returns the rate.
 
-#### templete file:
-##### The template file contains the html and css documents used in building our web app
+##### Contact
+- If you encounter any problems or have questions about the project, feel free to reach out to me:
 
-#### App.py:
-##### This contains the Flask API's that receives restaurant details via a GUI/API calls, then make the prediction of restaurant rating based on our model and returns the rate.
+- LinkedIn: 
+- Instagram: 
 
 🙋‍♂️ 👨‍💻 Developed by Prajwal Ghotkar 
