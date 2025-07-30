@@ -131,7 +131,7 @@ python app.py
 ##### Contact
 - If you encounter any problems or have questions about the project, feel free to reach out to me:
 
-- LinkedIn: 
+- LinkedIn: https://linkedin.com/in/prajwal-ghotkar-9618272a5
 - Instagram: 
 
 🙋‍♂️ 👨‍💻 Developed by Prajwal Ghotkar 
