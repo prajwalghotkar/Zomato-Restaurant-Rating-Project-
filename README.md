@@ -35,8 +35,6 @@
 ![Screenshot 2025-02-04 161619](https://github.com/user-attachments/assets/8883b5f2-ee54-4a5a-9149-5866b5eae2eb)
 ##### * Same way Right click and Run App.py
 ![Screenshot 2025-02-04 161659](https://github.com/user-attachments/assets/4b2b2d0a-0d46-4829-a056-70846add46d9)
-##### * Then Copy the http://127.0.0.1:5000/ open it in a web browser.
-![Screenshot 2025-02-04 163339](https://github.com/user-attachments/assets/e4bb6447-df2e-4568-91f3-ab9facaf0e91)
 ##### * Enter the Values click the Button <<Predict>> for Prediction
 ![Screenshot 2025-02-04 162211](https://github.com/user-attachments/assets/fe9465e9-50a3-44ac-b2db-d5266a9ac9f1)
 ##### * The Rating will be displayed as mentioned below
