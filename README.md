@@ -65,25 +65,27 @@ python app.py
 - Input features and get the restaurant rating predictions.
 
 ##### Demo:
-
-
-##### * If the PyCharm is already install open the file/Project directly as mentioned below 
+- If the PyCharm is already install open the file/Project directly as mentioned below 
 ![image](https://github.com/user-attachments/assets/88f5044e-daa1-4090-91e6-e400dd7e44c0)
 
-##### * Set Up Python Interpreter
+- Set Up Python Interpreter
 ![image](https://github.com/user-attachments/assets/87bcd9e3-bec4-43cc-82b1-21fe7378fd3a)
 ![Screenshot 2025-02-04 161430](https://github.com/user-attachments/assets/e54fc0b2-949a-4aef-ac81-d97c71dad8cd)
 
-##### * Once all the Packages are loaded
-##### * Right click Model.py the Run
+- Once all the Packages are loaded
+- Right click Model.py the Run
 ![image](https://github.com/user-attachments/assets/22010d9e-8a27-4ec6-b97c-8e40148b97e5)
-##### * This need to complete without any error
+
+- This need to complete without any error
 ![Screenshot 2025-02-04 161619](https://github.com/user-attachments/assets/8883b5f2-ee54-4a5a-9149-5866b5eae2eb)
-##### * Same way Right click and Run App.py
+
+- Same way Right click and Run App.py
 ![Screenshot 2025-02-04 161659](https://github.com/user-attachments/assets/4b2b2d0a-0d46-4829-a056-70846add46d9)
-##### * Enter the Values click the Button <<Predict>> for Prediction
+
+- Enter the Values click the Button <<Predict>> for Prediction
 ![Screenshot 2025-02-04 162211](https://github.com/user-attachments/assets/fe9465e9-50a3-44ac-b2db-d5266a9ac9f1)
-##### * The Rating will be displayed as mentioned below
+
+- The Rating will be displayed as mentioned below
 ![Screenshot 2025-02-04 161958](https://github.com/user-attachments/assets/82eba831-cfda-482b-8fdc-0e3eb7c9c98a)
 
 ### File you will need
