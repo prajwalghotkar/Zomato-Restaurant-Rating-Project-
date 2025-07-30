@@ -1,25 +1,71 @@
 # Zomato Restaurant Rating Project
 
-## Main Objective:
+##### Overview
+**This project is designed to help Zomato restaurants predict their ratings using advanced data analytics and machine learning. The workflow covers everything from data exploration to building a predictive model and deploying it as a live web application. The main goals are:**
 
-### The main agenda of this project is:
+- Perform extensive Exploratory Data Analysis (EDA) on the Zomato dataset.
 
-#### * perform extensive Exploratory Data Analysis(EDA) onn the Zomato Dataset.
-#### * Build an appropriate Machine Learning Model that will help various Zomato Restaurants to predict their respective Rating based on certain features.
-#### * DEPLOY the machine learning model via Flask that can be used to make live prediction of restaurant ratings.
+- Build a machine learning model to predict a restaurant’s rating based on key features.
 
-# STEPS:
+- Deploy the model via Flask to enable live predictions of restaurant ratings.
+---
+##### Features
+- In-depth EDA on restaurant data
+- Machine learning model for rating prediction
+- Flask web app for live predictions via GUI or API
+- User-friendly interface for restaurant owners/managers
+---
+##### Steps
+###### A) EDA and Model Building
+- 1. Load and analyze the dataset using Jupyter Notebook or Google Colab.
+- 2. Build and train a machine learning model. Save the trained model using pickle.
 
-### A) EDA and Model Building Part
+###### B) Deployment
+- 1. Use PyCharm (or any IDE) to set up your development environment. (You may also use other editors, e.g., Sublime Text.)
+- 2. Set up Python interpreter and required packages.
+- 3. Run Model.py to verify the model.
+- 4. Run App.py to launch the Flask application.
+- 5. Input restaurant features via the provided web interface to get the predicted rating.
 
-#### 1) Load the Dataset and perform the necessory EDA in your Jupyter Notebook or google colab
-#### 2) Build your Machine learing algorithm and save your model using "pickle"
+##### File Structure
+- **Model.py —** Model building and saving logic
+- **app.py —** Flask web application and API
+- **.csv —** Cleaned dataset used for training and predictions
+- **/template —** HTML files for the front-end
+- **/static —** CSS and static assets
 
-### B) Deployment Part
+##### Step	Description
+<img width="897" height="204" alt="image" src="https://github.com/user-attachments/assets/1269deda-449d-45fa-9ff0-7245e566204c" />
+---
+##### Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn (Machine Learning)
+- Flask (Web App)
+- HTML, CSS (Frontend)
 
-#### 1) In this we will be using "pycharm", however, feel free to use any IDE that you are conformable with (e.g. you can use sublim text editor to achive the same) NOTE: There several ways of using Flask to deploy your application including creating a virtual environment.
+##### Installation & Usage
+- Clone the Repository:
+- git clone https://github.com/prajwalghotkar/Zomato-Restaurant-Rating-Project
 
-#### 2) Install your favourite IDE(e.g. pycharm) 
+##### Install Dependencies:
+- Install required packages via pip:
+
+pip install -r requirements.txt
+
+##### Run the Application:
+
+- Run Model.py to ensure the model is available.
+- Start the Flask web app:
+python app.py
+
+##### Interact with the Web App:
+
+- Access the local host in your browser.
+- Input features and get the restaurant rating predictions.
+
+##### Demo:
+
 
 ##### * If the PyCharm is already install open the file/Project directly as mentioned below 
 ![image](https://github.com/user-attachments/assets/88f5044e-daa1-4090-91e6-e400dd7e44c0)
