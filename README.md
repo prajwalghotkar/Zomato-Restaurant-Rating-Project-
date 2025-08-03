@@ -129,10 +129,5 @@ python app.py
 ###### App.py:
 - This contains the Flask API's that receives restaurant details via a GUI/API calls, then make the prediction of restaurant rating based on our model and returns the rate.
 
-##### Contact
-- If you encounter any problems or have questions about the project, feel free to reach out to me:
-
-- LinkedIn: https://linkedin.com/in/prajwal-ghotkar-9618272a5
-- Instagram: https://instagram.com/https://www.instagram.com/invites/contact/?igsh=17hkb01x0fkpr&utm_content=nad16fs
 
 🙋‍♂️ 👨‍💻 Developed by Prajwal Ghotkar 
