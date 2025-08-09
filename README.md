@@ -131,4 +131,4 @@ python app.py
 
 
 🙋‍♂️ 👨‍💻 Developed by Prajwal Ghotkar 
-instagram.com/prajwal.ghotkar_
+https://www.instagram.com/prajwal.ghotkar_
