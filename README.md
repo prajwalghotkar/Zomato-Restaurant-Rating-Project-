@@ -132,4 +132,3 @@ python app.py
 
 🙋‍♂️ 👨‍💻 Prajwal
 
-https://www.instagram.com/prajwal.ghotkar_
