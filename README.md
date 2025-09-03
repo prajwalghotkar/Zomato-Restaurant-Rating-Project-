@@ -92,11 +92,13 @@ python app.py
 ---
 - Enter the Values click the Button <<Predict>> for Prediction
 
-![Screenshot 2025-02-04 162211](https://github.com/user-attachments/assets/fe9465e9-50a3-44ac-b2db-d5266a9ac9f1)
+<img width="1920" height="952" alt="409524449-fe9465e9-50a3-44ac-b2db-d5266a9ac9f1" src="https://github.com/user-attachments/assets/71b50936-6419-4e51-a86f-b4b780e7119d" />
+
 ---
 - The Rating will be displayed as mentioned below
 
-![Screenshot 2025-02-04 161958](https://github.com/user-attachments/assets/82eba831-cfda-482b-8fdc-0e3eb7c9c98a)
+<img width="1920" height="945" alt="409524756-82eba831-cfda-482b-8fdc-0e3eb7c9c98a" src="https://github.com/user-attachments/assets/17d79aa9-4861-4946-ae90-91a9d6af80e7" />
+
 ---
 ##### future befinit of that project:
 - **Improved Decision Making:** Restaurant owners can make more informed business decisions—like adjusting menus, pricing, or service—based on predicted ratings and important influencing factors.
